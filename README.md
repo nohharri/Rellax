@@ -1,4 +1,4 @@
-Rellax.js
+###Rellax.js
 Javascript Parallax framework
 
 Rellax was made so anyone can easily implement advanced parallax into their website without writing a single piece of Javascript code. Simply include jQuery and Rellax into your website header:
