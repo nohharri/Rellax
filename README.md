@@ -22,7 +22,7 @@ We can give our image a background. We can either give it a hexadecimal value fo
 <div rellax backgroundURL="url/image.jpg"></div>
 
 
-API
+APIs
 
 rellax     - Instantiates Rellax object. Takes no arguments.
 
