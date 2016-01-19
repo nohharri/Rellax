@@ -114,7 +114,7 @@ function Rellax() {
             else {
             	yDistance = 0;
             }
-            $(this).css('transform','translate3d(' + -window.scrollTop - xDistance + 'px, ' + -yDistance +'px,0)');
+            $(this).css('transform','translate3d(' +  -xDistance + 'px, ' + -yDistance +'px,0)');
         });
 	}
 	function draw() {
